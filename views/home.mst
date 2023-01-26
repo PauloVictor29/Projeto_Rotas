@@ -1,0 +1,28 @@
+{{>header}}
+<h1><b>Apresentação do Projeto</b></h1>
+<br>
+<body>
+<p>O projeto será desevolvido em Node.JS com os framework Mustache e Express baseia em três partes que são divididas em: </p>
+<ul>
+<li>A primeira parte se baseia na criação da Rota principal onde será apresentação do projeto </li>
+<li>Rota segundária se trata de baseia na grade de horário do 1º Sem/2023 após o número da porta coloque no seu navegador /rota1</li>
+<li>Rota terciária apresenta o histórico escolar, após o número da porta coloque no seu navegador /rota2</li>
+</ul>
+</body>
+<style>
+body{
+    background-image: linear-gradient( to right, #bc4ed8,#f988ff); 
+    font-family: 'Open Sans', sans-serif;font-size:20px;
+}
+b{
+    color:white;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
+
+</style>
+
